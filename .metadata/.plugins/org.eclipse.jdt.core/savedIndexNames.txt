@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\MATEUS BRIET\.eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+115259106.index
+959642351.index
+2992893975.index
+533738646.index
